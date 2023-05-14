@@ -12,8 +12,8 @@ import java.math.BigDecimal;
 public class Account {
 
     private String account;
-    private Integer debitCount;
-    private Integer creditCount;
+    private int debitCount;
+    private int creditCount;
     private BigDecimal balance;
 
 }
